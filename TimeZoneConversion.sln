@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeZoneConversion", "TimeZoneConversion\TimeZoneConversion.csproj", "{7B223306-8418-42CC-B87A-0BAA8E236B1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{105ED18C-5B8D-41A3-8E4E-079233A922EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B223306-8418-42CC-B87A-0BAA8E236B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B223306-8418-42CC-B87A-0BAA8E236B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B223306-8418-42CC-B87A-0BAA8E236B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B223306-8418-42CC-B87A-0BAA8E236B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{105ED18C-5B8D-41A3-8E4E-079233A922EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{105ED18C-5B8D-41A3-8E4E-079233A922EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{105ED18C-5B8D-41A3-8E4E-079233A922EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{105ED18C-5B8D-41A3-8E4E-079233A922EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC4FC913-323F-4069-86F2-0A2459C6E80E}
+	EndGlobalSection
+EndGlobal
