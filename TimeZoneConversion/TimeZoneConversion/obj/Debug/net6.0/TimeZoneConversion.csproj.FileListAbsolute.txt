@@ -1,0 +1,12 @@
+E:\Training\DEV\Backend\TimeZoneConvertionNice\TimeZoneConversion\TimeZoneConversion\bin\Debug\net6.0\TimeZoneConversion.deps.json
+E:\Training\DEV\Backend\TimeZoneConvertionNice\TimeZoneConversion\TimeZoneConversion\bin\Debug\net6.0\TimeZoneConversion.dll
+E:\Training\DEV\Backend\TimeZoneConvertionNice\TimeZoneConversion\TimeZoneConversion\bin\Debug\net6.0\TimeZoneConversion.pdb
+E:\Training\DEV\Backend\TimeZoneConvertionNice\TimeZoneConversion\TimeZoneConversion\obj\Debug\net6.0\TimeZoneConversion.csproj.AssemblyReference.cache
+E:\Training\DEV\Backend\TimeZoneConvertionNice\TimeZoneConversion\TimeZoneConversion\obj\Debug\net6.0\TimeZoneConversion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\DEV\Backend\TimeZoneConvertionNice\TimeZoneConversion\TimeZoneConversion\obj\Debug\net6.0\TimeZoneConversion.AssemblyInfoInputs.cache
+E:\Training\DEV\Backend\TimeZoneConvertionNice\TimeZoneConversion\TimeZoneConversion\obj\Debug\net6.0\TimeZoneConversion.AssemblyInfo.cs
+E:\Training\DEV\Backend\TimeZoneConvertionNice\TimeZoneConversion\TimeZoneConversion\obj\Debug\net6.0\TimeZoneConversion.csproj.CoreCompileInputs.cache
+E:\Training\DEV\Backend\TimeZoneConvertionNice\TimeZoneConversion\TimeZoneConversion\obj\Debug\net6.0\TimeZoneConversion.dll
+E:\Training\DEV\Backend\TimeZoneConvertionNice\TimeZoneConversion\TimeZoneConversion\obj\Debug\net6.0\refint\TimeZoneConversion.dll
+E:\Training\DEV\Backend\TimeZoneConvertionNice\TimeZoneConversion\TimeZoneConversion\obj\Debug\net6.0\TimeZoneConversion.pdb
+E:\Training\DEV\Backend\TimeZoneConvertionNice\TimeZoneConversion\TimeZoneConversion\obj\Debug\net6.0\ref\TimeZoneConversion.dll
